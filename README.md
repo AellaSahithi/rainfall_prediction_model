@@ -17,6 +17,9 @@ This project predicts whether it will rain or not based on weather conditions us
 . Wind speed
 . Pressure
 . Other weather parameters (based on dataset)
+
+---
+ 
 ## ⚙️ Steps Followed
 - Data collection
 - Data preprocessing
@@ -32,6 +35,22 @@ This project predicts whether it will rain or not based on weather conditions us
 - NumPy
 - Scikit-learn
 - Google Colab
+- 
+ ---
+ 
+## 📊 Data Visualization (Graphs)
+
+### Rain vs No Rain Count Plot
+![Count Plot](Countplot.png)
+
+### Correlation Heatmap
+![Heatmap](Heatmap.png)
+
+### Histogram (Data Distribution)
+![Histogram](Histplot.png)
+
+---
+
 ## 💾 Model Saving
 The trained Random Forest model is saved using Python's Pickle module for future use.
 
