@@ -32,7 +32,12 @@ This project predicts whether it will rain or not based on weather conditions us
 - NumPy
 - Scikit-learn
 - Google Colab
+## 💾 Model Saving
+The trained Random Forest model is saved using Python's Pickle module for future use.
 
+- File format: `.pkl`
+- Used for: Saving trained ML model
+- Benefit: Allows reuse of the model without retraining
 ---
 
 ## 🎯 Result
